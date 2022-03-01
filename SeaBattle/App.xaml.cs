@@ -14,6 +14,7 @@ namespace SeaBattle
     public partial class App : Application
     {
 
+
     }
 
 }
