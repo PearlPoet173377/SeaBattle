@@ -27,66 +27,66 @@
             <ColumnDefinition></ColumnDefinition>
 
         </Grid.ColumnDefinitions>
-        <Button Name ="a0a0" Grid.Column="0" Grid.Row="0" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer00" ClickMode ="Release"/>
-        <Button Name ="a0a1" Grid.Column="0" Grid.Row="1" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer01" ClickMode ="Release"/>
-        <Button Name ="a0a2" Grid.Column="0" Grid.Row="2" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer02" ClickMode ="Release"/>
-        <Button Name ="a0a3" Grid.Column="0" Grid.Row="3" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer03" ClickMode ="Release"/>
-        <Button Name ="a0a4" Grid.Column="0" Grid.Row="4" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer04" ClickMode ="Release"/>
+        <Button Name ="a0a0" Grid.Column="0" Grid.Row="0" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer" ClickMode ="Release"/>
+        <Button Name ="a0a1" Grid.Column="0" Grid.Row="1" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer" ClickMode ="Release"/>
+        <Button Name ="a0a2" Grid.Column="0" Grid.Row="2" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer" ClickMode ="Release"/>
+        <Button Name ="a0a3" Grid.Column="0" Grid.Row="3" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer" ClickMode ="Release"/>
+        <Button Name ="a0a4" Grid.Column="0" Grid.Row="4" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer" ClickMode ="Release"/>
 
-        <Button Name ="a1a0" Grid.Column="1" Grid.Row="0" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer10" ClickMode ="Release"/>
-        <Button Name ="a1a1" Grid.Column="1" Grid.Row="1" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer11" ClickMode ="Release"/>
-        <Button Name ="a1a2" Grid.Column="1" Grid.Row="2" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer12" ClickMode ="Release"/>
-        <Button Name ="a1a3" Grid.Column="1" Grid.Row="3" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer13" ClickMode ="Release"/>
-        <Button Name ="a1a4" Grid.Column="1" Grid.Row="4" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer14" ClickMode ="Release"/>
+        <Button Name ="a1a0" Grid.Column="1" Grid.Row="0" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer" ClickMode ="Release"/>
+        <Button Name ="a1a1" Grid.Column="1" Grid.Row="1" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer" ClickMode ="Release"/>
+        <Button Name ="a1a2" Grid.Column="1" Grid.Row="2" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer" ClickMode ="Release"/>
+        <Button Name ="a1a3" Grid.Column="1" Grid.Row="3" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer" ClickMode ="Release"/>
+        <Button Name ="a1a4" Grid.Column="1" Grid.Row="4" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer" ClickMode ="Release"/>
 
-        <Button Name ="a2a0" Grid.Column="2" Grid.Row="0" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer20" ClickMode ="Release"/>
-        <Button Name ="a2a1" Grid.Column="2" Grid.Row="1" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer21" ClickMode ="Release"/>
-        <Button Name ="a2a2" Grid.Column="2" Grid.Row="2" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer22" ClickMode ="Release"/>
-        <Button Name ="a2a3" Grid.Column="2" Grid.Row="3" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer23" ClickMode ="Release"/>
-        <Button Name ="a2a4" Grid.Column="2" Grid.Row="4" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer24" ClickMode ="Release"/>
+        <Button Name ="a2a0" Grid.Column="2" Grid.Row="0" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer" ClickMode ="Release"/>
+        <Button Name ="a2a1" Grid.Column="2" Grid.Row="1" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer" ClickMode ="Release"/>
+        <Button Name ="a2a2" Grid.Column="2" Grid.Row="2" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer" ClickMode ="Release"/>
+        <Button Name ="a2a3" Grid.Column="2" Grid.Row="3" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer" ClickMode ="Release"/>
+        <Button Name ="a2a4" Grid.Column="2" Grid.Row="4" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer" ClickMode ="Release"/>
 
-        <Button Name ="a3a0" Grid.Column="3" Grid.Row="0" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer30" ClickMode ="Release"/>
-        <Button Name ="a3a1" Grid.Column="3" Grid.Row="1" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer31" ClickMode ="Release"/>
-        <Button Name ="a3a2" Grid.Column="3" Grid.Row="2" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer32" ClickMode ="Release"/>
-        <Button Name ="a3a3" Grid.Column="3" Grid.Row="3" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer33" ClickMode ="Release"/>
-        <Button Name ="a3a4" Grid.Column="3" Grid.Row="4" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer34" ClickMode ="Release"/>
+        <Button Name ="a3a0" Grid.Column="3" Grid.Row="0" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer" ClickMode ="Release"/>
+        <Button Name ="a3a1" Grid.Column="3" Grid.Row="1" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer" ClickMode ="Release"/>
+        <Button Name ="a3a2" Grid.Column="3" Grid.Row="2" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer" ClickMode ="Release"/>
+        <Button Name ="a3a3" Grid.Column="3" Grid.Row="3" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer" ClickMode ="Release"/>
+        <Button Name ="a3a4" Grid.Column="3" Grid.Row="4" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer" ClickMode ="Release"/>
 
-        <Button Name ="a4a0" Grid.Column="4" Grid.Row="0" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer40" ClickMode ="Release"/>
-        <Button Name ="a4a1" Grid.Column="4" Grid.Row="1" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer41" ClickMode ="Release"/>
-        <Button Name ="a4a2" Grid.Column="4" Grid.Row="2" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer42" ClickMode ="Release"/>
-        <Button Name ="a4a3" Grid.Column="4" Grid.Row="3" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer43" ClickMode ="Release"/>
-        <Button Name ="a4a4" Grid.Column="4" Grid.Row="4" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer44" ClickMode ="Release"/>
+        <Button Name ="a4a0" Grid.Column="4" Grid.Row="0" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer" ClickMode ="Release"/>
+        <Button Name ="a4a1" Grid.Column="4" Grid.Row="1" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer" ClickMode ="Release"/>
+        <Button Name ="a4a2" Grid.Column="4" Grid.Row="2" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer" ClickMode ="Release"/>
+        <Button Name ="a4a3" Grid.Column="4" Grid.Row="3" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer" ClickMode ="Release"/>
+        <Button Name ="a4a4" Grid.Column="4" Grid.Row="4" Content="." Foreground ="LightCyan" FontSize="1" Background="LightCyan" Click="OnClickPlayer" ClickMode ="Release"/>
 
 
-        <Button Name ="b5b0" Grid.Column="5" Grid.Row="0" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy50" ClickMode ="Release"/>
-        <Button Name ="b5b1" Grid.Column="5" Grid.Row="1" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy51" ClickMode ="Release"/>
-        <Button Name ="b5b2" Grid.Column="5" Grid.Row="2" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy52" ClickMode ="Release"/>
-        <Button Name ="b5b3" Grid.Column="5" Grid.Row="3" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy53" ClickMode ="Release"/>
-        <Button Name ="b5b4" Grid.Column="5" Grid.Row="4" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy54" ClickMode ="Release"/>
+        <Button Name ="b5b0" Grid.Column="5" Grid.Row="0" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy" ClickMode ="Release"/>
+        <Button Name ="b5b1" Grid.Column="5" Grid.Row="1" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy" ClickMode ="Release"/>
+        <Button Name ="b5b2" Grid.Column="5" Grid.Row="2" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy" ClickMode ="Release"/>
+        <Button Name ="b5b3" Grid.Column="5" Grid.Row="3" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy" ClickMode ="Release"/>
+        <Button Name ="b5b4" Grid.Column="5" Grid.Row="4" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy" ClickMode ="Release"/>
 
-        <Button Name ="b6b0" Grid.Column="6" Grid.Row="0" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy60" ClickMode ="Release"/>
-        <Button Name ="b6b1" Grid.Column="6" Grid.Row="1" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy61" ClickMode ="Release"/>
-        <Button Name ="b6b2" Grid.Column="6" Grid.Row="2" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy62" ClickMode ="Release"/>
-        <Button Name ="b6b3" Grid.Column="6" Grid.Row="3" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy63" ClickMode ="Release"/>
-        <Button Name ="b6b4" Grid.Column="6" Grid.Row="4" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy64" ClickMode ="Release"/>
+        <Button Name ="b6b0" Grid.Column="6" Grid.Row="0" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy" ClickMode ="Release"/>
+        <Button Name ="b6b1" Grid.Column="6" Grid.Row="1" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy" ClickMode ="Release"/>
+        <Button Name ="b6b2" Grid.Column="6" Grid.Row="2" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy" ClickMode ="Release"/>
+        <Button Name ="b6b3" Grid.Column="6" Grid.Row="3" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy" ClickMode ="Release"/>
+        <Button Name ="b6b4" Grid.Column="6" Grid.Row="4" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy" ClickMode ="Release"/>
 
-        <Button Name ="b7b0" Grid.Column="7" Grid.Row="0" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy70" ClickMode ="Release"/>
-        <Button Name ="b7b1" Grid.Column="7" Grid.Row="1" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy71" ClickMode ="Release"/>
-        <Button Name ="b7b2" Grid.Column="7" Grid.Row="2" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy72" ClickMode ="Release"/>
-        <Button Name ="b7b3" Grid.Column="7" Grid.Row="3" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy73" ClickMode ="Release"/>
-        <Button Name ="b7b4" Grid.Column="7" Grid.Row="4" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy74" ClickMode ="Release"/>
+        <Button Name ="b7b0" Grid.Column="7" Grid.Row="0" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy" ClickMode ="Release"/>
+        <Button Name ="b7b1" Grid.Column="7" Grid.Row="1" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy" ClickMode ="Release"/>
+        <Button Name ="b7b2" Grid.Column="7" Grid.Row="2" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy" ClickMode ="Release"/>
+        <Button Name ="b7b3" Grid.Column="7" Grid.Row="3" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy" ClickMode ="Release"/>
+        <Button Name ="b7b4" Grid.Column="7" Grid.Row="4" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy" ClickMode ="Release"/>
 
-        <Button Name ="b8b0" Grid.Column="8" Grid.Row="0" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy80" ClickMode ="Release"/>
-        <Button Name ="b8b1" Grid.Column="8" Grid.Row="1" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy81" ClickMode ="Release"/>
-        <Button Name ="b8b2" Grid.Column="8" Grid.Row="2" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy82" ClickMode ="Release"/>
-        <Button Name ="b8b3" Grid.Column="8" Grid.Row="3" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy83" ClickMode ="Release"/>
-        <Button Name ="b8b4" Grid.Column="8" Grid.Row="4" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy84" ClickMode ="Release"/>
+        <Button Name ="b8b0" Grid.Column="8" Grid.Row="0" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy" ClickMode ="Release"/>
+        <Button Name ="b8b1" Grid.Column="8" Grid.Row="1" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy" ClickMode ="Release"/>
+        <Button Name ="b8b2" Grid.Column="8" Grid.Row="2" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy" ClickMode ="Release"/>
+        <Button Name ="b8b3" Grid.Column="8" Grid.Row="3" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy" ClickMode ="Release"/>
+        <Button Name ="b8b4" Grid.Column="8" Grid.Row="4" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy" ClickMode ="Release"/>
 
-        <Button Name ="b9b0" Grid.Column="9" Grid.Row="0" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy90" ClickMode ="Release"/>
-        <Button Name ="b9b1" Grid.Column="9" Grid.Row="1" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy91" ClickMode ="Release"/>
-        <Button Name ="b9b2" Grid.Column="9" Grid.Row="2" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy92" ClickMode ="Release"/>
-        <Button Name ="b9b3" Grid.Column="9" Grid.Row="3" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy93" ClickMode ="Release"/>
-        <Button Name ="b9b4" Grid.Column="9" Grid.Row="4" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy94" ClickMode ="Release"/>
+        <Button Name ="b9b0" Grid.Column="9" Grid.Row="0" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy" ClickMode ="Release"/>
+        <Button Name ="b9b1" Grid.Column="9" Grid.Row="1" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy" ClickMode ="Release"/>
+        <Button Name ="b9b2" Grid.Column="9" Grid.Row="2" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy" ClickMode ="Release"/>
+        <Button Name ="b9b3" Grid.Column="9" Grid.Row="3" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy" ClickMode ="Release"/>
+        <Button Name ="b9b4" Grid.Column="9" Grid.Row="4" Content="." Foreground ="White" FontSize="1" Background="White" Click="OnClickEnemy" ClickMode ="Release"/>
 
 
 
