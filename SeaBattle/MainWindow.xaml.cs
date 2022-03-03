@@ -920,6 +920,7 @@ namespace SeaBattle
                 obj.Content = "-";
                 obj.Background = Brushes.Blue;
                 playerShips += 1;
+                CheckCountToStart();
             }
         }
     }
