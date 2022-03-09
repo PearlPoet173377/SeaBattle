@@ -381,8 +381,8 @@ namespace SeaBattle
                 obj.Content = "X"; enemyShips -= 1;
                 obj.FontSize = 50;
                 obj.Foreground = Brushes.Red;
-                AttackByEnemy();
                 CheckCountToWin();
+                AttackByEnemy();
             }
         }
 
